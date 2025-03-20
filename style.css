@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(235, 232, 222);
+}
+
+h1,
+h2,
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color:rgb(193, 28, 28);
+    text-align: center;
+
+}
+
+li{
+    list-style: square;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+img{
+  display: block;
+  margin: auto;
+}
+
+.desc,
+.desctxt {
+    color: black;
+    text-align: center;
+}
+
+.desctxt{
+    font-weight: 400;
+}
+
+.sideheader{
+    text-align: left;
+}
+
